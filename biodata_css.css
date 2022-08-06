@@ -2,39 +2,90 @@
     border-width: 3px;
     border-style: solid;
     border-color: black;
-    margin: 20px;
-    padding: 20px;
+    margin: 200px;
+    padding: 10px;
+    height: 400px;
+    width: 800px;
+}
+
+.section_1{
+    width: 150px;
+    float: left;
+}
+
+.section_2{
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.section_3{
+    margin-top: 50px;
+    padding-left: 200px;
+}
+
+.section_4{
+    border-top-color: red ;
+    border-top-width: 5px;
+    border-top-style:solid ;
+    font-size: 40px;
+    padding: 5px;
 }
 
 .flag_orange{
     background-color: orange;
-}
-
-.flag_green{
-    background-color: green;
+    height: 20px;
+    margin-left: 15%;
+    font-weight: bold;
 }
 
 .flag_white{
     background-color: white;
+    height: 20px;
+    margin-left: 15%;
 }
 
-.gap_height{
-    height: 30px;
+.flag_green{
+    background-color: green;
+    height: 20px;
+    margin-left: 15%;
+    font-weight: bold;
 }
+
+.gap_height_width{
+    height: 30px;
+    width: 150px;
+}
+
 
 .text{
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 17px;
+    font-size: 19px;
     font-weight: 700;
 }
 
 .aadhar_text{
     font-family: 'Courier New', Courier, monospace;
-    font-size: 45px;
+    font-size: 40px;
     font-weight:bold;
-}
+    
+   }
 
 .center_align{
     text-align: center;
-    font-size: 40px;
 }
+
+.text_seperate{
+    background-color: white;
+    height: 20px;
+
+}
+
+.red{
+    color: red;
+}
+
+.bold{
+    font-weight: bold ;
+}
+
