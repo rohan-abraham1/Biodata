@@ -4,7 +4,6 @@
     border-color: black;
     margin: 200px;
     padding: 10px;
-    height: 400px;
     width: 800px;
 }
 
@@ -30,6 +29,7 @@
     border-top-style:solid ;
     font-size: 40px;
     padding: 5px;
+    margin-top: 5px;
 }
 
 .flag_orange{
@@ -89,3 +89,8 @@
     font-weight: bold ;
 }
 
+.align{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
